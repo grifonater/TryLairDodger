@@ -9,8 +9,16 @@
     <sprite>sprites\character_spr</sprite>
     <sprite>sprites\asasdsad</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\character_obj</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\game</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
